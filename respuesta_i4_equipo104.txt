@@ -1,0 +1,16 @@
+ALUMNOS PARTICIPANTES: Julian Ballada
+		       Tomas Avellaneda
+		       Matias Caceres
+
+A- ¿Qué color de fondo tiene su página en el TESTING ? RESPUESTA: Azul
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ? RESPUESTA: Amarillo
+C- ¿Qué color de fondo tiene su página en el MASTER? RESPUESTA: Amarillo
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA? RESPUESTA: Quedo la de BETTA
+
+E- ¿Algún integrante tuvo problemas al hacer el push? RESPUESTA: Si.
+F- ¿Qué problemas surgieron? RESPUESTA: Habia un conflicto en los archivos por problemas entre los commits de ALFA, GAMMA y BETA.
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada? RESPUESTA: Modificar el archivo y aplicar correctamente los cambios realizados por los integrantes.
+H- ¿Qué sucede si cada uno utiliza el push -f? RESPUESTA: Hace un push forzado y sobreescribe la rama en GitHub ignorando los commits que hicieron los demás.
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ? RESPUESTA: Borrar los errores y dejar los <p> ordenados.
